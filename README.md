@@ -1,7 +1,7 @@
 # CTF Challenges 
 <p align="center">
 
-<img src=""> 
+<img src="https://labs.hackthebox.com/storage/teams/42d02bd0c73cb27e4ffc7862910ea1f4_cover.png"> 
   
 </p>
 
