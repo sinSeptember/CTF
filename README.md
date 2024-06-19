@@ -13,8 +13,6 @@ Feel free to leave a star if you found a writeup helpful.
 
 ## Challenges
 
-Explore a variety of challenges ranging from web, OSINT, sherlock binary exploitation and more. 
-
 Each directory contains the necessary files, write-ups, and additional notes for a deeper understanding.
 
 <details>
