@@ -24,7 +24,7 @@ Each directory contains the necessary files, write-ups, and additional notes for
 
 |No.|easy|medium|hard|
 |:-:|:-------:|:-------:|:-------:|
-|1. |[Easter Bunny](/web/Easter_Bunny)|[Baby Interdimensional Internet](/web/Baby_Interdimensional_Internet)|[Cult of Pickles](web/Cult_of_Pickles)|
-|2. |[Gunship](/web/Gunship)|[Spookifier](/web/Spookifier)|[Render Quest](/web/Render_Quest/)|
+|1. |[PDFy](/pdfy/writeup)|[]()|[]()|
+|2. |
 
 </details>
