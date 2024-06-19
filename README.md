@@ -24,7 +24,7 @@ Each directory contains the necessary files, write-ups, and additional notes for
 
 |No.|easy|medium|hard|
 |:-:|:-------:|:-------:|:-------:|
-|1. |[PDFy](/pdfy/writeup)|[]()|[]()|
+|1. |[PDFy](/PDFy/writeup.md)|[]()|[]()|
 |2. |
 
 </details>
