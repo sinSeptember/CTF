@@ -13,14 +13,12 @@ Feel free to leave a star if you found it helpful.
 
 Each directory contains the necessary files,TTPs, and additional notes for a deeper understanding.
 
-<details>
-<br>
-<summary> WEB </summary>
+
   
 
-|No.|easy|medium|hard|
-|:-:|:-------:|:-------:|:-------:|
-|1. |[PDFy](/PDFy/notes.md)|[]()|[]()|
+|No.|web|DFIR|linux|windows|
+|:-:|:-------:|:-------:|:-------:|:-------:|
+|1. |[PDFy](/PDFy/notes.md)|[]()|[]()|[]()|
 |2. |
 
 </details>
