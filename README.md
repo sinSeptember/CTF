@@ -16,9 +16,9 @@ Each directory contains the necessary files,TTPs, and additional notes for a dee
 
   
 
-|No.|web|DFIR|linux|windows|
-|:-:|:-------:|:-------:|:-------:|:-------:|
-|1. |[PDFy](/PDFy/notes.md)|[]()|[]()|[]()|
+|No.|web|DFIR|linux|windows|SOC|
+|:-:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|1. |[PDFy](/PDFy/notes.md)|[]()|[]()|[]()|[]()|
 |2. |
 
 </details>
