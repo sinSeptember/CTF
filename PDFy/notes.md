@@ -1,7 +1,7 @@
 
 ![](https://github.com/sinSeptember/CTF/blob/main/PDFy/assets/2024-06-19_13-01.png)
 
-### summary 
+# summary 
 with 200OK and error in the body we were able to find a tool with vuln.
 by parsing error messages and crawling the app. 
 SSRF allow us manipulate the tool into accessing sensitive server-side resources.
@@ -13,7 +13,7 @@ notes:
 - portable pdf documents :)
 -  /etc/passwd store the flag, ok ! 
 
-### enum 
+# enum 
 So we sent a url for a target page and the app will convert the page  into pdf format
 In other words pdfy is a conversion tools.
 
@@ -29,7 +29,7 @@ the response shows that our app use wkhtmltopdf to convert HTML pages to PDF.
 
 ![](https://github.com/sinSeptember/CTF/blob/main/PDFy/assets/2024-06-19_12-39.png)
 
-### exploit
+# exploit
  Googling to find any valuable info about wkhtmltopdf and among many results we can found this [issue](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3570)  & [exploitation](https://exploit-notes.hdks.org/exploit/web/security-risk/wkhtmltopdf-ssrf/) that pointing to read localfile using php. 
 
 by hosting php server on my localhost and  tunneling to the target I got the /etc/passwd reflected :) 
