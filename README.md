@@ -18,18 +18,18 @@ Each directory contains the necessary files,TTPs, and additional notes for a dee
 <br>
 <summary> HTB </summary>
  
-|No.|web|DFIR|linux|windows|SOC|
-|:-:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|1. |[PDFy](/PDFy/notes.md)|[]()|[]()|[]()|[]()|
-|2. |
+|No.|web|
+|:-:|:-------:|
+|1. |[PDFy](/PDFy/notes.md)|
+
 </details>
 
 <details>
 <br>
 <summary> PortSwigger </summary>
 
-|No.|sqli|||||
-|:-:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|1. |[retrieving hidden data](/portSwigger/sqli/SQL-Lab01.md)|[]()|[]()|[]()|[]()|
-|2. |
+|No.|sqli|
+|:-:|:-------:|
+|1. |[retrieving hidden data](/portSwigger/sqli/SQL-Lab01.md)|
+
 </details>
