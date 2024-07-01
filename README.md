@@ -30,6 +30,6 @@ Each directory contains the necessary files,TTPs, and additional notes for a dee
 
 |No.|sqli|||||
 |:-:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|1. |[]()|[]()|[]()|[]()|[]()|
+|1. |[retrieving hidden data](/portSwigger/sqli/SQL-Lab01.md)|[]()|[]()|[]()|[]()|
 |2. |
 </details>
