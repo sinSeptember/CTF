@@ -14,11 +14,22 @@ Feel free to leave a star if you found it helpful.
 Each directory contains the necessary files,TTPs, and additional notes for a deeper understanding.
 
 
-  
-
+<details>
+<br>
+<summary> HTB </summary>
+ 
 |No.|web|DFIR|linux|windows|SOC|
 |:-:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |1. |[PDFy](/PDFy/notes.md)|[]()|[]()|[]()|[]()|
 |2. |
+</details>
 
+<details>
+<br>
+<summary> PortSwigger </summary>
+
+|No.|sqli|||||
+|:-:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|1. |[]()|[]()|[]()|[]()|[]()|
+|2. |
 </details>
