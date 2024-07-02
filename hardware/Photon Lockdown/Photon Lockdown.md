@@ -87,4 +87,4 @@ $grep -lr password | wc -l     
 34
 ```
 start with the first file `etc/config_default.xml  ` seems like a defualt config with xml format 
-![[flag.png]]
+![](https://github.com/sinSeptember/CTF/blob/main/hardware/flag.png))
