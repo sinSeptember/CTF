@@ -22,4 +22,4 @@ In the query we have released value = 1 assume its true, lets true to get 0 to s
 The quote reflected to the main page, lets add boolean condition and some spicy comments
 ---
 ![](https://github.com/sinSeptember/CTF/blob/main/portSwigger/sqli/assets/1.3.png)
-"SELECT * FROM products WHERE category = 'Gifts'' OR 1=1 -- `AND released = 1`"
+"SELECT * FROM products WHERE category = 'Gifts'' OR 1=1 -- `AND released = 1"`
