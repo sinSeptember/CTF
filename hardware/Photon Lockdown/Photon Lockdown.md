@@ -1,7 +1,7 @@
 # lesson learned
 - importance of scoping the search - paying attention for the file size
 - extracting compressed squashfs files
-- 
+  
 # challenge description 
 
 We've located the adversary's location and must now secure access to their Optical Network Terminal to disable their internet connection.
