@@ -20,7 +20,8 @@ Each directory contains the necessary files,TTPs, and additional notes for a dee
  
 |No.|web|Hardware|
 |:-:|:-------:|:-------:|
-|1. |[PDFy](/PDFy/notes.md)|[Photon Lockdown](/hardware/Photon Lockdown/Photon Lockdown.md)
+|1. |[PDFy](/PDFy/notes.md)|[Photon Lockdown](/hardware/Photon%20Lockdown/Photon%20Lockdown.md)
+
 
 </details>
 
