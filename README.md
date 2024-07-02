@@ -18,9 +18,9 @@ Each directory contains the necessary files,TTPs, and additional notes for a dee
 <br>
 <summary> HTB </summary>
  
-|No.|web|
-|:-:|:-------:|
-|1. |[PDFy](/PDFy/notes.md)|
+|No.|web|Hardware|
+|:-:|:-------:|:-------:|
+|1. |[PDFy](/PDFy/notes.md)|[Photon Lockdown](/hardware/Photon Lockdown/Photon Lockdown.md)
 
 </details>
 
