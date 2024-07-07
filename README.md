@@ -5,7 +5,7 @@
   
 </p>
 
-This collection of notes and exploits  I've used to tackle challenges mainly in HTB and other platforms.
+A collection of notes and exploits I've used to tackle challenges
 
 Feel free to leave a star if you found it helpful.
 
